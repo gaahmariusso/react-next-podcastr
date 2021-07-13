@@ -3,7 +3,6 @@
    <h3>O melhor para você ouvir, sempre</h3>
 </div>
 </br>
-</br>
 <div align="center">
   <a href="#-tecnologias-utilizadas">
     <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB">
@@ -19,7 +18,7 @@
 [**Sobre**](#-sobre) &nbsp;&nbsp;**|**&nbsp;&nbsp;
 [**Tecnologias e ferramentas utilizadas**](#-tecnologias-e-ferramentas-utilizadas) &nbsp;&nbsp;**|**&nbsp;&nbsp;
 [**Layout**](#-layout) &nbsp;&nbsp;**|**&nbsp;&nbsp;
-[**Instalação e execução**](#-instalação-e-execução) &nbsp;&nbsp;**|**&nbsp;&nbsp;
+[**Instalação e execução**](#-instalação-e-execução)
 
 </div>
 
